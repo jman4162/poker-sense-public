@@ -1,5 +1,9 @@
 # Poker Sense
 
+<p align="center">
+  <img src="assets/app-icon.png" alt="Poker Sense App Icon" width="200">
+</p>
+
 An AI-powered No-Limit Texas Hold'em training app for iOS.
 
 ## About
